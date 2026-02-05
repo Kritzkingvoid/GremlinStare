@@ -1,0 +1,6 @@
+﻿//Allow Doto to act randomly
+allowRandom = true
+//If true, you will need to Alt-f4 to close Doto
+closeOff = true
+//How often doto moves in seconds
+intervalRng = 2
